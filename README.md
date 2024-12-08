@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @milanmilosev1
 - 👀 I’m interested in improving at coding
-- 🌱 I’m currently learning html/css and javascript as well as c++
+- 🌱 I’m currently learning C++, Java, C# and Kotlin
 - 📫 How to reach me: Twitter @milan_milosev
