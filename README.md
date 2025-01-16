@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @milanmilosev1
-- 👀 I’m interested in improving at coding
-- 🌱 I’m currently learning C++, Java, C# and Kotlin
-- 📫 How to reach me: Twitter @milan_milosev
+ex Low-level enjoyer
+currently interested in Machine learning and data science
+Python, C/C++, Java, C#, Julia, Assembly -- whatever you need I got you
